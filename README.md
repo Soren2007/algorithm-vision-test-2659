@@ -16,7 +16,7 @@ The second line contains a string consisting of uppercase and lowercase English 
 
 The third line also contains a string consisting of uppercase and lowercase English letters, representing the word written by the student.
 
-\( 1 \leq n \leq 100000 \)
+1 <= n <= 100000
 
 ## Output
 
